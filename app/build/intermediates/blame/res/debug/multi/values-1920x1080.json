@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\values-1920x1080\\values-1920x1080.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 749,
+                        "endColumn": 56,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 55,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 55,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 58,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 865,
+                        "endColumn": 58,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endColumn": 57,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 807,
+                        "endColumn": 57,
+                        "endOffset": 860
+                    }
+                }
+            }
+        ]
+    }
+]

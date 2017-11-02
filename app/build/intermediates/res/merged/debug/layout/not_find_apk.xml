@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+        android:id="@+id/ll_not_find_usb"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusable="false"
+        android:orientation="vertical"
+        android:visibility="visible" >
+
+        <TextView
+            android:layout_width="387dp"
+            android:layout_height="394dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="179dp"
+            android:layout_marginTop="79dp"
+            android:background="@drawable/tips"
+            android:focusable="false" />
+
+        <TextView
+            android:layout_width="479dp"
+            android:layout_height="254dp"
+            android:layout_marginBottom="93dp"
+            android:layout_marginLeft="675dp"
+            android:background="@drawable/tips_string"
+            android:focusable="false"
+            android:lineSpacingExtra="10dp"
+            android:paddingLeft="79dp"
+            android:paddingRight="96dp"
+            android:paddingTop="56dp"
+            android:text="@string/not_find_apk_file"
+            android:textColor="@color/white"
+            android:textSize="21sp" />
+    </FrameLayout>
+
+</FrameLayout>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- (波斯语) google 2 -->
+
+    <string name="app_name">برنامه مدیریت </string>
+    <string name="action_settings">تنظیمات </string>
+    <string name="uninstall">من می خواهم به حذف </string>
+    <string name="install">من می خواهم به نصب </string>
+    <string name="exit">من می خواهم به ترک </string>
+    <string name="uninstall_sys">سیستم </string>
+    <string name="uninstall_user">کاربر </string>
+    <string name="install_usb">خارجی </string>
+    <string name="uninstall_user_apk">درخواست کاربر حذف نصب </string>
+    <string name="exit_title">تعیین به خارج </string>
+    <string name="yes">تکرار </string>
+    <string name="no">لغو </string>
+
+    <!-- 代码中 -->
+    <!-- Activity -->
+    <string name="MainActivity_sys_no_apks">در سیستم حافظه می توانید فایل APK را پیدا کند به نصب</string>
+    <string name="UninstallActivity_uninstall_user_apks">درخواست کاربر حذف نصب</string>
+    <string name="UninstallActivity_uninstall_sys_apks">برنامه های کاربردی سیستم حذف </string>
+    <string name="InstallActivity_install_sys_apks">در داخل APK نصب فایل</string>
+    <string name="InstallActivity_install_usb_apks">APK خارجی نصب و راه اندازی فایل </string>
+    <!-- Pages -->
+    <string name="UninstallUserPageLayout_installed">نصب شده است </string>
+    <string name="UninstallUserPageLayout_sys_apks">سیستم برنامه </string>
+    <string name="UninstallUserPageLayout_user_apks">نرم افزار کاربری </string>
+    <string name="InstallSysPageLayout_uninstall">نصب نشده است </string>
+    <string name="InstallSysPageLayout_can_updata">بهروز </string>
+
+    <!-- layout -->
+    <string name="apks_reading">خواندن فایل برنامه .... </string>
+    <string name="dialog_title">APK جزئیات برنامه </string>
+    <string name="dialog_apks_name">نام نرم افزار: </string>
+    <string name="dialog_apks_state">برنامه وضعیت:  </string>
+    <string name="dialog_apks_size">کاربرد حجم: </string>
+    <string name="dialog_apks_vision_name">نام: </string>
+    <string name="dialog_apks_vision_code">تعداد نسخه: </string>
+    <string name="dialog_file_path">راه فایل: </string>
+    <string name="dialog_apks_icon">آیکون های نرم افزار: </string>
+    <string name="dialog_file_pakege_name">نام بسته: </string>
+    <string name="dialog_install">نصب و راه اندازی </string>
+    <string name="dialog_uninstall">عزل </string>
+    <string name="nousb_warn">نکات: </string>
+    <string name="not_find_apk_file">APK می توانید فایل را نصب کنید را پیدا کند! </string>
+    <string name="not_find_userapk">شما انجام نصب و راه اندازی هر درخواست کاربر</string>
+    <string name="usb_unname">دستگاه های ذخیره سازی قابل حمل </string>
+    <string name="is_sys_app">بدون اجازه به حذف! </string>
+
+    <!-- 追加 -->
+    <string name="exception_files_1">فایل APK </string>
+    <string name="exception_files_2">غیر طبیعی</string>
+    <string name="MainActivity_exitBy2Click">دوباره فشار دهید تا خارج شدن از برنامه </string>
+    <string name="install_sys">داخلی </string>
+    <string name="install_sys_apk">نصب فایل APK داخلی</string>
+    <string name="nousb_content">آیا پیدا کند مربوط به دستگاه ذخیره سازی خارجی، بررسی دستگاه یواس بی وصل! </string>
+
+</resources>

@@ -1,0 +1,862 @@
+[
+    {
+        "outputFile": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\values-de\\values-de.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 95,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 889,
+                        "endColumn": 95,
+                        "endOffset": 980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endColumn": 89,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endColumn": 89,
+                        "endOffset": 1071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 75,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1398,
+                        "endColumn": 75,
+                        "endOffset": 1469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 76,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1320,
+                        "endColumn": 76,
+                        "endOffset": 1392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 97,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2733,
+                        "endColumn": 97,
+                        "endOffset": 2826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 121,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 562,
+                        "endColumn": 121,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 102,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 785,
+                        "endColumn": 102,
+                        "endOffset": 883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 98,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 98,
+                        "endOffset": 779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 79,
+                    "endOffset": 891
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1077,
+                        "endColumn": 79,
+                        "endOffset": 1152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 896,
+                    "endColumn": 79,
+                    "endOffset": 971
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 79,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 976,
+                    "endColumn": 79,
+                    "endOffset": 1051
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1239,
+                        "endColumn": 79,
+                        "endOffset": 1314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1056,
+                    "endColumn": 57,
+                    "endOffset": 1109
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 57,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1114,
+                    "endColumn": 67,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 67,
+                        "endOffset": 1538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 56,
+                    "endOffset": 1234
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 56,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1239,
+                    "endColumn": 64,
+                    "endOffset": 1299
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1984,
+                        "endColumn": 64,
+                        "endOffset": 2044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1304,
+                    "endColumn": 60,
+                    "endOffset": 1360
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1598,
+                        "endColumn": 60,
+                        "endOffset": 1654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1365,
+                    "endColumn": 61,
+                    "endOffset": 1422
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1728,
+                        "endColumn": 61,
+                        "endOffset": 1785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1427,
+                    "endColumn": 66,
+                    "endOffset": 1489
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1660,
+                        "endColumn": 66,
+                        "endOffset": 1722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1494,
+                    "endColumn": 67,
+                    "endOffset": 1557
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1858,
+                        "endColumn": 67,
+                        "endOffset": 1921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1562,
+                    "endColumn": 65,
+                    "endOffset": 1623
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1791,
+                        "endColumn": 65,
+                        "endOffset": 1852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1628,
+                    "endColumn": 62,
+                    "endOffset": 1686
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2050,
+                        "endColumn": 62,
+                        "endOffset": 2108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1691,
+                    "endColumn": 55,
+                    "endOffset": 1742
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1927,
+                        "endColumn": 55,
+                        "endOffset": 1978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1747,
+                    "endColumn": 55,
+                    "endOffset": 1798
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2114,
+                        "endColumn": 55,
+                        "endOffset": 2165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1803,
+                    "endColumn": 52,
+                    "endOffset": 1851
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1544,
+                        "endColumn": 52,
+                        "endOffset": 1592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1856,
+                    "endColumn": 54,
+                    "endOffset": 1906
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2171,
+                        "endColumn": 54,
+                        "endOffset": 2221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1911,
+                    "endColumn": 66,
+                    "endOffset": 1973
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2609,
+                        "endColumn": 66,
+                        "endOffset": 2671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1978,
+                    "endColumn": 54,
+                    "endOffset": 2028
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2677,
+                        "endColumn": 54,
+                        "endOffset": 2727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2033,
+                    "endColumn": 40,
+                    "endOffset": 2069
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3182,
+                        "endColumn": 40,
+                        "endOffset": 3218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2074,
+                    "endColumn": 65,
+                    "endOffset": 2135
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 65,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2140,
+                    "endColumn": 48,
+                    "endOffset": 2184
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3132,
+                        "endColumn": 48,
+                        "endOffset": 3176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2189,
+                    "endColumn": 46,
+                    "endOffset": 2231
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2832,
+                        "endColumn": 46,
+                        "endOffset": 2874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2236,
+                    "endColumn": 79,
+                    "endOffset": 2311
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2880,
+                        "endColumn": 79,
+                        "endOffset": 2955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2316,
+                    "endColumn": 46,
+                    "endOffset": 2358
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 46,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2363,
+                    "endColumn": 79,
+                    "endOffset": 2438
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2528,
+                        "endColumn": 79,
+                        "endOffset": 2603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2443,
+                    "endColumn": 41,
+                    "endOffset": 2480
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 519,
+                        "endColumn": 41,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2485,
+                    "endColumn": 94,
+                    "endOffset": 2575
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2274,
+                        "endColumn": 94,
+                        "endOffset": 2364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2580,
+                    "endColumn": 97,
+                    "endOffset": 2673
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2370,
+                        "endColumn": 97,
+                        "endOffset": 2463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2678,
+                    "endColumn": 120,
+                    "endOffset": 2794
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2961,
+                        "endColumn": 120,
+                        "endOffset": 3077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2799,
+                    "endColumn": 45,
+                    "endOffset": 2840
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2227,
+                        "endColumn": 45,
+                        "endOffset": 2268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2845,
+                    "endColumn": 47,
+                    "endOffset": 2888
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3083,
+                        "endColumn": 47,
+                        "endOffset": 3126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2893,
+                    "endColumn": 48,
+                    "endOffset": 2937
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 48,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2942,
+                    "endColumn": 51,
+                    "endOffset": 2989
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 51,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2994,
+                    "endColumn": 79,
+                    "endOffset": 3069
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 79,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3074,
+                    "endColumn": 57,
+                    "endOffset": 3127
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2469,
+                        "endColumn": 57,
+                        "endOffset": 2522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3132,
+                    "endColumn": 42,
+                    "endOffset": 3170
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 42,
+                        "endOffset": 513
+                    }
+                }
+            }
+        ]
+    }
+]

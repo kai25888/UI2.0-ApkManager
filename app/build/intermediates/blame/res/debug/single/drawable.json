@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_button_bg_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable\\app_button_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\all_apk_unselect.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable\\all_apk_unselect.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable\\gridview_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_focus_highlight.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable\\main_focus_highlight.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_btn_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable\\dialog_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\all_apk_select.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable\\all_apk_select.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ll_select_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable\\ll_select_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transparency_bg.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable\\transparency_bg.xml"
+    }
+]

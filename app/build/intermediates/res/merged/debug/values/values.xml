@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_color">#1E90FF</color>
+    <color name="main_word">#E7DAFF</color>
+    <color name="white">#fff</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="white_eighty">#CCFFFFFF</color>
+    <color name="white_fifty">#7FFFFFFF</color>
+    <color name="white_fourty">#66FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="InstallActivity_install_sys_apks">Inside APK  files installation</string>
+    <string name="InstallActivity_install_usb_apks">External APK file installation</string>
+    <string name="InstallSysPageLayout_can_updata">Updatable</string>
+    <string name="InstallSysPageLayout_uninstall">Not Installed</string>
+    <string name="MainActivity_exitBy2Click">Press again to exit the program</string>
+    <string name="MainActivity_sys_no_apks">In system memory can\'t find the apk file to install </string>
+    <string name="UninstallActivity_uninstall_sys_apks">Uninstall system applications</string>
+    <string name="UninstallActivity_uninstall_user_apks">Uninstalling user application</string>
+    <string name="UninstallUserPageLayout_installed">Has been installed</string>
+    <string name="UninstallUserPageLayout_sys_apks">System Application</string>
+    <string name="UninstallUserPageLayout_user_apks">User application</string>
+    <string name="action_settings">Settings</string>
+    <string name="apks_reading">Reading Application file ....</string>
+    <string name="app_name">Application Manager</string>
+    <string name="app_stop">A key accelerate</string>
+    <string name="appstarting">Cleanup Acceleration</string>
+    <string name="cache_cleaner_ok">Cache cleared</string>
+    <string name="cache_select_all">Select all</string>
+    <string name="cache_select_cleaner">Cache Cleaner</string>
+    <string name="cache_select_none">Select None</string>
+    <string name="cache_select_none_tip">Selection can not be empty</string>
+    <string name="clean">Clean</string>
+    <string name="clean_bg_process">cleanup daemon</string>
+    <string name="cleancache">Clean cache</string>
+    <string name="dialog_apks_icon">Application icons: </string>
+    <string name="dialog_apks_name">Application Name: </string>
+    <string name="dialog_apks_size">Application Size: </string>
+    <string name="dialog_apks_state">Application Status: </string>
+    <string name="dialog_apks_vision_code">Version number: </string>
+    <string name="dialog_apks_vision_name">Version Name: </string>
+    <string name="dialog_file_pakege_name">Package name: </string>
+    <string name="dialog_file_path">File Path: </string>
+    <string name="dialog_install">Install</string>
+    <string name="dialog_title"> Application Details</string>
+    <string name="dialog_uninstall">Uninstall</string>
+    <string name="exception_files_1">Application file </string>
+    <string name="exception_files_2">Abnormal</string>
+    <string name="exit_title">Determine to exit</string>
+    <string name="img">img</string>
+    <string name="install">Install</string>
+    <string name="install_sys">Internal</string>
+    <string name="install_sys_apk">Installing the Internal Apk file</string>
+    <string name="install_usb">External</string>
+    <string name="is_sys_app">No permission to uninstall !</string>
+    <string name="memory_unit_k">K</string>
+    <string name="memory_unit_m">M</string>
+    <string name="no">Cancel</string>
+    <string name="no_clear">The selected process has nothing to clean up.</string>
+    <string name="not_find_apk_file">Apk can not find the file to install!</string>
+    <string name="not_find_userapk">You didn\'t install any user application</string>
+    <string name="nousb_content">Did not find corresponding external storage device, check Usb device is plugged in!</string>
+    <string name="nousb_warn">Tips:</string>
+    <string name="release_memory">release memory</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="uninstall_sys">System</string>
+    <string name="uninstall_user">User</string>
+    <string name="uninstall_user_apk">Uninstalling user application</string>
+    <string name="unit"/>
+    <string name="usb_unname">Removable storage devices</string>
+    <string name="yes">Confirm</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="DialogText">
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="DialogText.Title">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Dialog_a" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="LinearLayout">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">11dip</item>
+        <item name="android:layout_marginRight">11dip</item>
+        <item name="android:layout_marginTop">25dip</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+
+        <!-- 设置背景为无 -->
+        <item name="android:windowBackground">@null</item>
+        <!-- 设置是否悬浮 -->
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- <item name="android:layout_width">750dip</item> -->
+        <!-- <item name="android:layout_height">450dip</item> -->
+    </style>
+    <style name="dialog_my" parent="@android:style/Theme.Holo.Dialog"/>
+</resources>

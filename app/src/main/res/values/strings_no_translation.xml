@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 不需要_做国际化处理的字符串 -->
+    <string name="img">img</string>
+    <string name="memory_unit_m">M</string>
+    <string name="memory_unit_k">K</string>
+
+</resources>

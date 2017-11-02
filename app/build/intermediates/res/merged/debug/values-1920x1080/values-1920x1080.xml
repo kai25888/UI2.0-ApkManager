@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_framelayout1_height">140dp</dimen>
+    <dimen name="item_framelayout1_width">220dp</dimen>
+    <integer name="item_framelayout1_height">210</integer>
+    <integer name="item_framelayout1_width">330</integer>
+</resources>

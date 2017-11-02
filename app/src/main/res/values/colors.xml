@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white_fifty">#7FFFFFFF</color>
+    <color name="white">#fff</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="white_fourty">#66FFFFFF</color>
+    <color name="white_eighty">#CCFFFFFF</color>
+    <color name="main_word">#E7DAFF</color>
+    <color name="blue_color">#1E90FF</color>
+
+</resources>

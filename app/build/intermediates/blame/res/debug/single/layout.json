@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_apks_reading.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\all_apks_reading.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\not_find_usb.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\not_find_usb.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cleancache_app_item.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\cleancache_app_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cv_dialog_sys_uninstall.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\cv_dialog_sys_uninstall.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cv_dialog_install.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\cv_dialog_install.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_clean_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\all_clean_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_apk_item.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\all_apk_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_install.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\activity_install.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stop_app_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\stop_app_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\clean_app_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\clean_app_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\not_find_userapk.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\not_find_userapk.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_apks_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\all_apks_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cv_dialog_user_uninstall.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\cv_dialog_user_uninstall.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clean_stop.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\activity_clean_stop.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_uninstall.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\activity_uninstall.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\not_find_apk.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\not_find_apk.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\layout\\toast.xml"
+    }
+]

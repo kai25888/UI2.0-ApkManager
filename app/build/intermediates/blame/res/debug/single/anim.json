@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_down_in.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\anim\\push_down_in.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_down_out.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\anim\\push_down_out.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    }
+]

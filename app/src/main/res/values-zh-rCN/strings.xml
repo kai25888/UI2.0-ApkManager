@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">应用管理器</string>
+    <string name="action_settings">设置</string>
+    <string name="uninstall_sys">系统</string>
+    <string name="uninstall_user">用户</string>
+    <string name="install_usb">外部</string>
+    <string name="uninstall_user_apk">卸载用户应用</string>
+    <string name="exit_title">确定退出</string>
+    <string name="yes">确定</string>
+    <string name="no">取消</string>
+
+    <!-- 代码中 -->
+    <!-- Activity -->
+    <string name="MainActivity_sys_no_apks">系统内存中没有找到可安装的apk文件</string>
+    <string name="UninstallActivity_uninstall_user_apks">卸载用户应用</string>
+    <string name="UninstallActivity_uninstall_sys_apks">卸载系统应用</string>
+    <string name="InstallActivity_install_sys_apks">安装本地APK文件</string>
+    <string name="InstallActivity_install_usb_apks">安装外部APK文件</string>
+    <!-- Pages -->
+    <string name="UninstallUserPageLayout_installed">已安装</string>
+    <string name="UninstallUserPageLayout_sys_apks">系统应用</string>
+    <string name="UninstallUserPageLayout_user_apks">用户应用</string>
+    <string name="InstallSysPageLayout_uninstall">未安装</string>
+    <string name="InstallSysPageLayout_can_updata">可更新</string>
+
+    <!-- layout -->
+    <string name="apks_reading">正在读取应用文件....</string>
+    <string name="dialog_title">应用详细信息</string>
+    <string name="dialog_apks_name">应用名称： </string>
+    <string name="dialog_apks_state">应用状态： </string>
+    <string name="dialog_apks_size">应用大小： </string>
+    <string name="dialog_apks_vision_name">版本序号： </string>
+    <string name="dialog_apks_vision_code">版本号码： </string>
+    <string name="dialog_file_path">文件路径： </string>
+    <string name="dialog_apks_icon">应用图标： </string>
+    <string name="dialog_file_pakege_name">文件包名：</string>
+    <string name="dialog_install">安装</string>
+    <string name="dialog_uninstall">卸载</string>
+    <string name="nousb_warn">温馨提示：</string>
+    <string name="not_find_apk_file">没有找到可安装的Apk文件 !</string>
+    <string name="not_find_userapk">您还没有安装任何用户应用</string>
+    <string name="usb_unname">移动存储设备</string>
+    <string name="is_sys_app">此应用为系统应用,您暂无权限卸载!</string>
+
+    <!-- 追加 -->
+    <string name="exception_files_1">应用文件</string>
+    <string name="exception_files_2">异常</string>
+    <string name="MainActivity_exitBy2Click">再按一次退出程序</string>
+    <string name="install_sys">内部</string>
+    <string name="install_sys_apk">安装内部Apk文件</string>
+    <string name="nousb_content">没有找到相应的外部存储设备,请检查Usb设备是否插好 !</string>
+    <string name="uninstall">卸载</string>
+    <string name="install">安装</string>
+    <string name="clean">清除</string>
+
+    <!-- appactivity追加 -->
+    <string name="appstarting">清理加速</string>
+    <string name="cleancache">清除缓存</string>
+    <string name="cache_select_cache_app">请选择要清除缓存的应用</string>
+    <string name="cache_select_all">全选</string>
+    <string name="cache_select_none">全不选</string>
+    <string name="cache_select_cleaner">清除</string>
+    <string name="cache_cleaner_ok">缓存清理完毕!</string>
+    <string name="clean_bg_process">清理后台进程</string>
+    <string name="unit">个</string>
+    <string name="release_memory">释放内存</string>
+    <string name="cache_select_none_tip">选择不能为空</string>
+    <string name="app_stop">一键加速</string>
+    <string name="no_clear">选中的进程没什么可清理的.</string>
+
+</resources>

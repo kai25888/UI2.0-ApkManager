@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\uninstall.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\uninstall.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tips.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\tips.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_page_focus.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\ic_home_page_focus.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apk_bg_1.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\apk_bg_1.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_top_table.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\main_top_table.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apk_selector.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\apk_selector.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apk_bg_4.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\apk_bg_4.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filemanager_dialog_background.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\filemanager_dialog_background.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_selector_apk.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\iv_selector_apk.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apk_bg_7.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\apk_bg_7.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bg.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\dialog_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_top_tran.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\main_top_tran.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_focus_highlight_pic.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\main_focus_highlight_pic.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backstage_focus.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\backstage_focus.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\install_title_usb_focus.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\install_title_usb_focus.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_btn_seletor.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\dialog_btn_seletor.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_page_unfocus.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\ic_home_page_unfocus.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\uninstall_title_user_focus.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\uninstall_title_user_focus.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\uninstall_title_system.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\uninstall_title_system.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\all_apk_reading_bg.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\all_apk_reading_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\all_top_line.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\all_top_line.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_picturelayout_bg.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\dialog_picturelayout_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apk_bg_6.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\apk_bg_6.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cleancache.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\cleancache.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clean.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\clean.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\is_sys_app_bg.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\is_sys_app_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apk_bg_3.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\apk_bg_3.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_btn_bg_pic.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\dialog_btn_bg_pic.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_selector_apk_focus.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\iv_selector_apk_focus.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apk_bg_0.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\apk_bg_0.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\uninstall_title_system_focus.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\uninstall_title_system_focus.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\uninstall_title_user.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\uninstall_title_user.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_btn_bg.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\app_btn_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_toast.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\img_toast.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tips_string.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\tips_string.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\install.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\install.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apk_bg_2.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\apk_bg_2.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backstage.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\backstage.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\state_bg_didnot.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\state_bg_didnot.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apk_bg_5.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\apk_bg_5.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cleancache_focus.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\cleancache_focus.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\state_bg_have.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\state_bg_have.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\install_title_usb.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\install_title_usb.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_btn_bg_selector.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\app_btn_bg_selector.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\small_login.png",
+        "source": "F:\\AndroidStudioProjects\\UI2.0\\ApkManager\\app\\src\\main\\res\\drawable-hdpi\\small_login.png"
+    }
+]

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ctv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/ctv.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

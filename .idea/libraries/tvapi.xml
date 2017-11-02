@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tvapi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/tvapi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

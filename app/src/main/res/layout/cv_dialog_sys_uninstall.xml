@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="948dp"
+    android:layout_height="687dp"
+    android:background="@drawable/dialog_bg"
+    android:orientation="vertical"
+    android:scaleType="fitXY" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="105dp"
+        android:text="@string/dialog_title"
+        android:textColor="@color/white_color"
+        android:textSize="31sp" />
+
+    <FrameLayout
+        android:layout_width="671dp"
+        android:layout_height="119dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/dialog_picturelayout_bg" >
+
+        <ImageView
+            android:id="@+id/imageView_dialog6"
+            android:layout_width="93dp"
+            android:layout_height="93dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="12dp" />
+
+        <TextView
+            android:id="@+id/textView_dialog1"
+            android:layout_width="wrap_content"
+            android:layout_height="26dp"
+            android:layout_marginLeft="136dp"
+            android:layout_marginTop="25dp"
+            android:textColor="@color/white_eighty"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/textView_filesize"
+            android:layout_width="wrap_content"
+            android:layout_height="26dp"
+            android:layout_marginLeft="136dp"
+            android:layout_marginTop="70dp"
+            android:textColor="@color/white_eighty"
+            android:textSize="22sp" />
+
+        <FrameLayout
+            android:layout_width="124dp"
+            android:layout_height="93dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="535dp" >
+
+            <ImageView
+                android:layout_width="124dp"
+                android:layout_height="93dp"
+                android:background="@drawable/state_bg_have" />
+
+            <TextView
+                android:id="@+id/textView_dialog2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:gravity="center_horizontal"
+                android:lines="1"
+                android:textColor="@color/white_eighty"
+                android:textSize="24sp" />
+        </FrameLayout>
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="948dp"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2dip"
+            android:layout_marginLeft="50dip"
+            android:layout_marginRight="50dip"
+            android:orientation="vertical" >
+
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="26dp"
+                android:layout_marginLeft="101dp"
+                android:layout_marginRight="101dp"
+                android:layout_marginTop="19dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:gravity="center_vertical"
+                    android:text="@string/dialog_apks_vision_name"
+                    android:textColor="@color/white_eighty"
+                    android:textSize="22sp" />
+
+                <TextView
+                    android:id="@+id/textView_dialog3"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/white_eighty"
+                    android:textSize="22sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="26dp"
+                android:layout_marginLeft="101dp"
+                android:layout_marginRight="101dp"
+                android:layout_marginTop="36dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:gravity="center_vertical"
+                    android:text="@string/dialog_apks_vision_code"
+                    android:textColor="@color/white_eighty"
+                    android:textSize="22sp" />
+
+                <TextView
+                    android:id="@+id/textView_dialog4"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/white_eighty"
+                    android:textSize="22sp" />
+            </FrameLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="101dp"
+                android:layout_marginRight="101dp"
+                android:layout_marginTop="36dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/textView_dialog_path1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:gravity="top"
+                    android:text="@string/dialog_file_pakege_name"
+                    android:textColor="@color/white_eighty"
+                    android:textSize="22sp" />
+
+                <TextView
+                    android:id="@+id/textView_dialog5"
+                    android:layout_width="fill_parent"
+                    android:layout_height="97dp"
+                    android:gravity="top"
+                    android:lineSpacingExtra="7sp"
+                    android:singleLine="false"
+                    android:textColor="@color/white_eighty"
+                    android:textSize="22sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_dialog_bottom"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/linearLayout1"
+            android:gravity="center" >
+
+            <TextView
+                android:layout_width="671dp"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/is_sys_app_bg"
+                android:gravity="center"
+                android:text="@string/is_sys_app"
+                android:textColor="@color/white_color"
+                android:textSize="22sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

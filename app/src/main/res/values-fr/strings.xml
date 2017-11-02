@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 法语 -->
+    <string name="app_name">gestionnaire d\'application </string>
+    <string name="action_settings">Paramètres</string>
+    <string name="uninstall_sys">Système</string>
+    <string name="uninstall_user">Utilisateur</string>
+    <string name="install_usb">Externe</string>
+    <string name="uninstall_user_apk">Application utilisateur désinstallation</string>
+    <string name="exit_title">Déterminer à quitter</string>
+    <string name="yes">Confirmer</string>
+    <string name="no">Annuler</string>
+    <string name="MainActivity_sys_no_apks">Dans la mémoire système ne peut pas trouver le fichier apk installer</string>
+    <string name="UninstallActivity_uninstall_user_apks">Application utilisateur désinstallation</string>
+    <string name="UninstallActivity_uninstall_sys_apks">Applications du système de désinstallation</string>
+    <string name="InstallActivity_install_sys_apks">Inside APK installation des fichiers</string>
+    <string name="InstallActivity_install_usb_apks">L\'installation du fichier APK externes</string>
+    <string name="UninstallUserPageLayout_installed">A été installé</string>
+    <string name="UninstallUserPageLayout_sys_apks">Application système</string>
+    <string name="UninstallUserPageLayout_user_apks">l\'application de l\'utilisateur</string>
+    <string name="InstallSysPageLayout_uninstall">Non installé</string>
+    <string name="InstallSysPageLayout_can_updata">Actualisable</string>
+    <string name="apks_reading">Lecture du fichier d\'application .... </string>
+    <string name="dialog_title">Apk Détails de la demande</string>
+    <string name="dialog_apks_name">Nom de l\'application:</string>
+    <string name="dialog_apks_state">État de la demande:</string>
+    <string name="dialog_apks_size">Taille de l\'application:</string>
+    <string name="dialog_apks_vision_name">Nom de la version:</string>
+    <string name="dialog_apks_vision_code">Numéro de version:</string>
+    <string name="dialog_file_path">Chemin du fichier:</string>
+    <string name="dialog_apks_icon">Les icônes d\'application:</string>
+    <string name="dialog_file_pakege_name">Nom du package:</string>
+    <string name="dialog_install">Installation</string>
+    <string name="dialog_uninstall">Désinstaller</string>
+    <string name="nousb_warn">Conseils:</string>
+    <string name="not_find_apk_file">Apk ne peut pas trouver le fichier à installer!</string>
+    <string name="not_find_userapk">Vous ne avez pas d\'installation ne importe quelle application d\'utilisateur</string>
+    <string name="usb_unname">Périphériques de stockage amovibles</string>
+    <string name="is_sys_app">Pas de permission pour désinstaller!</string>
+    <string name="exception_files_1">Fichier APK</string>
+    <string name="exception_files_2">Anormal</string>
+    <string name="MainActivity_exitBy2Click">Appuyez à nouveau pour quitter le programme</string>
+    <string name="install_sys">Interne</string>
+    <string name="install_sys_apk">Installation du fichier Apk interne</string>
+    <string name="nousb_content">Vous n\'avez pas trouvé périphérique de stockage externe correspondant, consultez périphérique USB est branché!</string>
+    <string name="uninstall">Désinstaller</string>
+    <string name="install">Installer</string>
+    <string name="exit">Sortie</string>
+
+    <string name="appstarting">Accélération du nettoyage</string>
+    <string name="cleancache">Cache propre</string>
+    <string name="cache_select_all">tout sélectionner</string>
+    <string name="cache_select_none">Ne rien sélectionner</string>
+    <string name="cache_select_cleaner">Nettoyeur de cache</string>
+    <string name="cache_cleaner_ok">Cache effacé</string>
+    <string name="clean_bg_process">Démon de nettoyage</string>
+    <string name="unit"></string>
+    <string name="release_memory">Libérer la mémoire</string>
+    <string name="cache_select_none_tip">La sélection ne peut pas être vide</string>
+    <string name="app_stop">Une accélération clé</string>
+    <string name="no_clear">Le processus sélectionné n\'a rien à nettoyer.</string>
+
+</resources>

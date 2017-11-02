@@ -1,0 +1,40 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="243dp"
+    android:layout_height="229dp" >
+
+    <FrameLayout
+        android:id="@+id/ll_all_apk"
+        android:layout_width="189dp"
+        android:layout_height="175dp"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="27dp"
+        android:background="@drawable/all_apk_unselect" >
+
+        <ImageView
+            android:id="@+id/iv_all_apk_icon"
+            android:layout_width="136dp"
+            android:layout_height="131dp"
+            android:layout_gravity="center_horizontal"
+            android:contentDescription="@string/img"
+            android:paddingBottom="25dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:paddingTop="25dp" />
+    </FrameLayout>
+
+    <com.cv.apk_manager.view.MarqueeView
+        android:id="@+id/tv_all_apk_label"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="18dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="150dp"
+        android:ellipsize="marquee"
+        android:gravity="center_horizontal|bottom"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:textColor="@color/white_color"
+        android:textSize="24sp"
+        android:textStyle="normal" />
+
+</FrameLayout>

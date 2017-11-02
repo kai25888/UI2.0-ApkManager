@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:clickable="false"
+        android:focusable="false"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/seletor_all_btn"
+            android:layout_width="232dp"
+            android:layout_height="104dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="46dp"
+            android:background="@drawable/app_button_bg_selector"
+            android:clickable="true"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:gravity="center"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:singleLine="true"
+            android:text="@string/cache_select_all"
+            android:textColor="@color/white_fifty"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/seletor_none_btn"
+            android:layout_width="232dp"
+            android:layout_height="104dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="61dp"
+            android:background="@drawable/app_button_bg_selector"
+            android:clickable="true"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:gravity="center"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:singleLine="true"
+            android:text="@string/cache_select_none"
+            android:textColor="@color/white_fifty"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/close_or_clean_btn"
+            android:layout_width="232dp"
+            android:layout_height="104dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="61dp"
+            android:background="@drawable/app_button_bg_selector"
+            android:clickable="true"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:singleLine="true"
+            android:text="@string/cleancache"
+            android:textColor="@color/white_fifty"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+    <com.cv.apk_manager.view.VerticalViewPager
+        android:id="@+id/clean_view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="232dp"
+        android:clickable="true"
+        android:focusable="true" />
+
+    <LinearLayout
+        android:id="@+id/clean_view_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center_vertical"
+        android:layout_marginRight="20dp"
+        android:orientation="vertical" />
+
+    <FrameLayout
+        android:id="@+id/fl_cache_cleaner_ing"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#8000"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <ProgressBar
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:focusable="false" />
+    </FrameLayout>
+
+</FrameLayout>
